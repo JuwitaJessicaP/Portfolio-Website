@@ -1,4 +1,4 @@
-# 🌸 Juwita Jessica Pangestu – Finance Portfolio
+# <img src="public/logo/logo.png" alt="Logo" width="30" height="30" style="vertical-align: middle;"/> Juwita Jessica Pangestu – Finance Portfolio
 
 A modern personal portfolio website for **Juwita Jessica Pangestu**, an incoming **UW Foster School of Business (Finance Major)**.  
 Blending analytical excellence with creative vision, this site showcases her **education, experiences, and passions**.
