@@ -35,7 +35,7 @@ const HeroSection = () => {
         </h1>
 
         <h2 className="font-body text-xl md:text-2xl lg:text-3xl text-muted-foreground font-medium mb-6">
-          Incoming UW Foster Finance Major
+          Finance Major @ UW Foster
         </h2>
 
         <p className="font-body text-lg md:text-xl text-foreground/80 max-w-3xl mx-auto leading-relaxed mb-12">
