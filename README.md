@@ -27,7 +27,7 @@ Clone and run the project locally:
 
 ```bash
 # Step 1: Clone the repository
-git clone git@github.com:JuwitaJessicaP/Portfolio-Website.git
+git clone https://github.com/JuwitaJessicaP/Portfolio-Website.git
 
 # Step 2: Navigate into the project folder
 cd Portfolio-Website
